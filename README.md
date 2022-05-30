@@ -1,3 +1,8 @@
+
+![my photo](https://user-images.githubusercontent.com/97939228/170981253-88eb72e8-64a2-4b9f-aa6c-c1c3e9623fbb.jpeg)
+
+
+
 Hi 👋 My name is Chandn Meher
 =============================
 
