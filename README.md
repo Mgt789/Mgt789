@@ -3,7 +3,7 @@
 
 
 
-Hi 👋 My name is Chandn Meher
+Hi 👋 My name is Chandan Meher
 =============================
 
 Web Developer and Designer
