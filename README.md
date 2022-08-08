@@ -6,10 +6,10 @@
 Hi 👋 My name is Chandan Meher
 =============================
 
-Web Developer and Designer
+UI Developer
 --------------------------
 
-I am a UI designer as well as a junior Full stack Developer.
+I am a UI Developer.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [officialmeher8@gmail.com](mailto:officialmeher8@gmail.com)
